@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "Имя сотрудника": "Jane",
+      "Фамилия сотрудника": "Doe",
+      "id": "foRwQiQ",
+      "Имя": "Jane",
+      "Фамилия": "Doe",
+      "email": "janedoe@mail.ru"
+    },
+    {
+      "Имя": "John",
+      "Фамилия": "Doe",
+      "id": "WL9Vi_A",
+      "email": "janedoe@mail.ru"
+    }
+  ]
+}
